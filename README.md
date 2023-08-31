@@ -1,1 +1,1 @@
-# Contacts_Management_Project
+# Contacts_Management_Project for ERPNext Course
