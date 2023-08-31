@@ -1,1 +1,1 @@
-# Contacts_Management_Project for ERPNext Course
+# Contacts_Management_Python_Project for ERPNext Course
